@@ -8,7 +8,7 @@ name: AWS ECR push
 
 jobs:
   deploy:
-    name: Deploy
+    name: CI
     runs-on: ubuntu-latest
 
     steps:
